@@ -1,4 +1,4 @@
-# Knee Osteoarthritis Pain Assessment Method
+# Objective Assessment of Knee Osteoarthritis Pain Grades Using Multi-Modal Data Dominated by Thermal Images
 
 ## Introduction
 
