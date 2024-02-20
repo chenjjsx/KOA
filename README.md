@@ -1,8 +1,6 @@
-# Objective Assessment of Knee Osteoarthritis Pain Grades Using Multi-Modal Data Dominated by Thermal Images
-
+# Objective Bi-Modal Assessment of Knee Osteoarthritis Severity Grades: Model and Mechanism
 ## Introduction
-
-Knee Osteoarthritis (KOA) stands as the most prevalent musculoskeletal disorder. Presently, the diagnosis of KOA relies on the subjective evaluation of symptoms and patient scores, lacking a standardized and objective diagnostic process. In this study, we present a method for objectively assessing KOA pain grades using predominantly thermal imaging in a multi-modal dataset. We have developed a classification model that categorizes KOA pain grades into three distinct categories based on the Kellgren-Lawrence (KL) grading criteria.
+Knee Osteoarthritis (KOA) is a highly prevalent disease, and the Kellgren-Lawrence (KL) grading scoring method plays a crucial role in determining the severity and formulating treatment plans for knee osteoarthritis. However, existing assessment methods rely on experts' interpretation of X-ray images, which may be subject to image overlap or blurring and variations in the professional expertise of physicians, especially during long-term and repeated examinations, posing potential risks to health. In this study, we developed a model for predicting the severity of knee osteoarthritis using thermal image combined with health data. We have developed a classification model that categorizes KOA grades into three distinct categories based on the Kellgren-Lawrence (KL) grading criteria.
 
 ## Methodology
 
@@ -14,4 +12,4 @@ For the first time, we introduce the KOA dataset and evaluate it using the metho
 
 ## Application Prospects
 
-The application of this method is expected to significantly alleviate the laborious task of pain grade scoring for physicians. It provides crucial auxiliary information for the diagnosis of knee diseases, further enhancing efficiency and diagnostic accuracy in the field of KOA.
+The model provides a new method for predicting the severity of KOA and provides important auxiliary information for physicians' diagnosis.
